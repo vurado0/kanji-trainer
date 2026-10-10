@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "source": "Empty starter seed — nothing learned yet. To start from your own progress, replace this file before the first run.",
+  "legend": {
+    "mastery_3": "kräftig grün – sitzt sicher",
+    "mastery_2": "hellgrün – etwas schwächer",
+    "mastery_1": "gelbgrün – wackelig",
+    "in_progress": "rot – war in Arbeit, Lernen fortsetzen",
+    "queue": "noch nicht angefangen (weiß), Reihenfolge = Reihenfolge der App"
+  },
+  "counts": {
+    "mastery_3": 0,
+    "mastery_2": 0,
+    "mastery_1": 0,
+    "in_progress": 0,
+    "queue_n3_rest": 0
+  },
+  "learned": {
+    "mastery_3": "",
+    "mastery_2": "",
+    "mastery_1": ""
+  },
+  "queue": {
+    "note": "Empty: the queue follows the JLPT order from data/queue-auto.json.",
+    "in_progress": "",
+    "n3_rest": "",
+    "continue_after": ""
+  }
+}

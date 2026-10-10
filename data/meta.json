@@ -1,0 +1,73 @@
+{
+ "generated": "2026-08-23T09:46:28.672Z",
+ "chunk": 100,
+ "chunkCount": 23,
+ "counts": {
+  "characters": 2220,
+  "withStrokes": 2220,
+  "withVocab": 2033,
+  "byLevel": [
+   {
+    "lv": 5,
+    "n": 79
+   },
+   {
+    "lv": 4,
+    "n": 166
+   },
+   {
+    "lv": 3,
+    "n": 367
+   },
+   {
+    "lv": 2,
+    "n": 367
+   },
+   {
+    "lv": 1,
+    "n": 1232
+   },
+   {
+    "lv": 0,
+    "n": 9
+   }
+  ]
+ },
+ "gaps": {
+  "noStrokes": [],
+  "noDic": [],
+  "noVocab": 187
+ },
+ "sources": [
+  {
+   "name": "KANJIDIC2",
+   "by": "Electronic Dictionary Research and Development Group",
+   "license": "CC BY-SA 4.0",
+   "url": "http://www.edrdg.org/wiki/index.php/KANJIDIC_Project"
+  },
+  {
+   "name": "JMdict (simplified, eng-common)",
+   "by": "EDRDG / scriptin",
+   "license": "CC BY-SA 4.0",
+   "url": "https://github.com/scriptin/jmdict-simplified"
+  },
+  {
+   "name": "KanjiVG",
+   "by": "Ulrich Apel",
+   "license": "CC BY-SA 3.0",
+   "url": "http://kanjivg.tagaini.net"
+  },
+  {
+   "name": "JLPT-Stufen (modern)",
+   "by": "Jonathan Waller's JLPT resources, via davidluzgouveia/kanji-data",
+   "license": "MIT (Datenbank), Listen frei verfügbar",
+   "url": "https://github.com/davidluzgouveia/kanji-data"
+  },
+  {
+   "name": "WanaKana",
+   "by": "WaniKani / Tofugu",
+   "license": "MIT",
+   "url": "https://github.com/WaniKani/WanaKana"
+  }
+ ]
+}

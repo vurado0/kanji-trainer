@@ -1,0 +1,5 @@
+# Raw upstream dumps — re-fetch with tools/fetch-sources.sh
+tools/cache/
+.DS_Store
+.claude/
+seed-progress.personal.json
